@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **dinosaur poop is everywhere**
 
-<h3 align="left">Connect with me no</h3>
+<h3 align="left">Connect with me... no.</h3>
 <p align="left">
 </p>
 
