@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [a directory in my mind](a directory in my mind)
 
-- 📫 How to reach me **don't**
+- 📫 How to reach me: **don't**
 
 - ⚡ Fun fact **dinosaur poop is everywhere**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me no</h3>
 <p align="left">
 </p>
 
