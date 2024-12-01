@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **life**
 
-- 👨‍💻 All of my projects are available at [a directory in my mind](a directory in my mind)
+- 👨‍💻 All of my projects are available at a directory in my mind
 
 - 📫 How to reach me: **don't**
 
