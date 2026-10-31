@@ -36,7 +36,6 @@ I'm an undergraduate in Mathematics and student at 42 School.
 
 ### Other tools
 <div data-importer="techs" align="left">
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
