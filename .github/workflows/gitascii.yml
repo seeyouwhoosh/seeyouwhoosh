@@ -2,10 +2,8 @@ name: Update GitAscii
 
 on:
   workflow_dispatch:
-
-  push:
-    branches:
-    - main
+  schedule:
+    - cron: '41 22 * * *'
 
 permissions:
   contents: write
