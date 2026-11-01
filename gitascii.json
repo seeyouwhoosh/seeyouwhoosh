@@ -1,4 +1,5 @@
 {
+  "username": "seeyouwhoosh",
   "widgets": [
     {
       "widgetId": "header",
@@ -29,7 +30,7 @@
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
-        "x": 40,
+        "x": 34,
         "y": 90
       },
       "size": {
@@ -11534,19 +11535,19 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 304,
+        "x": 298,
         "y": 114
       },
       "size": {
         "width": 448,
-        "height": 192
+        "height": 208
       },
       "config": {
         "showStatsSection": false,
         "showContactSection": true,
         "showLocation": true,
         "showLanguages": true,
-        "showCompany": false,
+        "showCompany": true,
         "showUptime": true,
         "showStatus": true,
         "showAchievements": false,
@@ -11573,7 +11574,8 @@
         "showOrgs": false,
         "textColor": "#D3C6AA",
         "accentColor": "#DBBC7F",
-        "borderColor": "#272E33"
+        "borderColor": "#272E33",
+        "showPronouns": false
       },
       "locked": false,
       "visible": true,
@@ -11584,8 +11586,8 @@
       "widgetId": "languages",
       "name": "Languages Widget",
       "position": {
-        "x": 304,
-        "y": 330
+        "x": 298,
+        "y": 346
       },
       "size": {
         "width": 448,
@@ -11593,7 +11595,7 @@
       },
       "config": {
         "textColor": "#D3C6AA",
-        "accentColor": "#DBBC7F",
+        "accentColor": "#D699B6",
         "langsLayout": "bars",
         "borderColor": "#272E33"
       },
@@ -11626,7 +11628,7 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 56,
+        "x": 50,
         "y": 346
       },
       "size": {
@@ -11635,19 +11637,21 @@
       },
       "config": {
         "selectedTechs": [
-          "cpp",
-          "py",
-          "html",
-          "c",
-          "bash",
-          "r",
           "docker",
-          "matlab"
+          "git",
+          "bash",
+          "matlab",
+          "cpp",
+          "c",
+          "py",
+          "r"
         ],
         "theme": "dark",
         "perLine": 4,
         "textColor": "#D3C6AA",
-        "borderColor": "#272E33"
+        "borderColor": "#272E33",
+        "customTitle": "[TECH SKILLS]",
+        "lockAspectRatio": false
       },
       "locked": false,
       "visible": true,
@@ -11666,5 +11670,10 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1793527956586_7ms3c",
+    "updatedAt": "2026-11-01T10:12:39.100Z"
+  }
 }
