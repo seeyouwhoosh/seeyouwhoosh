@@ -11660,7 +11660,7 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#1E2326",
+    "backgroundColor": "#1e2326",
     "textColor": "#e5e5e5",
     "accentColor": "#c5ff4a",
     "borderColor": "#272E33",
@@ -11668,12 +11668,13 @@
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "transparentBackground": false
   },
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793527956586_7ms3c",
-    "updatedAt": "2026-11-01T10:12:39.100Z"
+    "revision": "rev_1793814815612_pdv2n",
+    "updatedAt": "2026-11-04T17:53:39.942Z"
   }
 }
