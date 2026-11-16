@@ -143,9 +143,9 @@
       <rect class="" x="0" y="0" width="448" height="208" fill="#1e2326" stroke="#272E33" stroke-width="1" rx="0" />
       
       <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#1a2e22">─</tspan><tspan fill="#83C092"> seeyouwhoosh@github </tspan><tspan fill="#1a2e22">────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#7FBBB3">. Uptime: </tspan><tspan fill="#83C092">.............</tspan><tspan fill="#D3C6AA"> 6 years, 8 months, 12 days</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#7FBBB3">. Uptime: </tspan><tspan fill="#83C092">.............</tspan><tspan fill="#D3C6AA"> 6 years, 8 months, 14 days</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#7FBBB3">. Location: </tspan><tspan fill="#83C092">........................</tspan><tspan fill="#D3C6AA"> Bilbao, Spain</tspan></text>
-<text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#7FBBB3">. Languages: </tspan><tspan fill="#83C092">.....</tspan><tspan fill="#D3C6AA"> C, Shell, C++, HTML, Vim Script</tspan></text>
+<text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#7FBBB3">. Languages: </tspan><tspan fill="#83C092">.....</tspan><tspan fill="#D3C6AA"> C++, C, Shell, HTML, Vim Script</tspan></text>
 <text x="12" y="92" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#7FBBB3">. Status: </tspan><tspan fill="#83C092">......</tspan><tspan fill="#D3C6AA"> seeking knowledge under the rocks</tspan></text>
 <text x="12" y="118" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#1a2e22">─</tspan><tspan fill="#83C092"> Contact </tspan><tspan fill="#1a2e22">────────────────────────────────────────</tspan></text>
 <text x="12" y="136" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#7FBBB3">. GitHub: </tspan><tspan fill="#83C092">................</tspan><tspan fill="#D3C6AA"> github.com/seeyouwhoosh</tspan></text>
@@ -162,15 +162,15 @@
       
       
     <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TOP LANGUAGES ]</text>
-    <rect x="24" y="52" width="160" height="8" fill="#D699B6" rx="2" /><rect x="184" y="52" width="106.66666666666667" height="8" fill="#D699B6" rx="2" /><rect x="290.6666666666667" y="52" width="71.11111111111111" height="8" fill="#89e051" rx="2" /><rect x="361.7777777777778" y="52" width="35.55555555555556" height="8" fill="#D699B6" rx="2" /><rect x="397.33333333333337" y="52" width="26.666666666666668" height="8" fill="#f34b7d" rx="2" />
+    <rect x="24" y="52" width="155.10204081632654" height="8" fill="#D699B6" rx="2" /><rect x="179.10204081632654" y="52" width="97.95918367346938" height="8" fill="#D699B6" rx="2" /><rect x="277.0612244897959" y="52" width="73.46938775510205" height="8" fill="#89e051" rx="2" /><rect x="350.53061224489795" y="52" width="40.816326530612244" height="8" fill="#f34b7d" rx="2" /><rect x="391.3469387755102" y="52" width="32.6530612244898" height="8" fill="#D699B6" rx="2" />
       <g transform="translate(24, 80)">
         <circle cx="6" cy="-4" r="4" fill="#D699B6" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#D3C6AA">C <tspan fill="#7a7a7a">40%</tspan></text>
+        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#D3C6AA">C <tspan fill="#7a7a7a">39%</tspan></text>
       </g>
     
       <g transform="translate(224, 80)">
         <circle cx="6" cy="-4" r="4" fill="#D699B6" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#D3C6AA">Makefile <tspan fill="#7a7a7a">27%</tspan></text>
+        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#D3C6AA">Makefile <tspan fill="#7a7a7a">24%</tspan></text>
       </g>
     
       <g transform="translate(24, 104)">
@@ -179,13 +179,13 @@
       </g>
     
       <g transform="translate(224, 104)">
-        <circle cx="6" cy="-4" r="4" fill="#D699B6" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#D3C6AA">Perl <tspan fill="#7a7a7a">9%</tspan></text>
+        <circle cx="6" cy="-4" r="4" fill="#f34b7d" />
+        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#D3C6AA">C++ <tspan fill="#7a7a7a">10%</tspan></text>
       </g>
     
       <g transform="translate(24, 128)">
-        <circle cx="6" cy="-4" r="4" fill="#f34b7d" />
-        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#D3C6AA">C++ <tspan fill="#7a7a7a">7%</tspan></text>
+        <circle cx="6" cy="-4" r="4" fill="#D699B6" />
+        <text x="16" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#D3C6AA">Perl <tspan fill="#7a7a7a">8%</tspan></text>
       </g>
     
   
